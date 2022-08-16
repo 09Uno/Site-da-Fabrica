@@ -1,0 +1,208 @@
+
+
+
+.barramenu{
+    bottom: -48px;
+    content: "";
+    height: 7px;
+    left: 31px;
+    position: absolute;
+    width: 100%;
+    background-color:rgba(197 6 6);
+}
+
+.naomostra {
+    
+    display: none;
+}
+
+.parallaxcoop1 { 
+    /* The image used */
+    background-image: url("../media/paralax/parallax_meio.jpg");
+
+    /* Set a specific height */
+    height: 300px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.parallaxcoop2 { 
+    /* The image used */
+    background-image: url("../media/paralax/paralaxcoop2.png");
+
+    /* Set a specific height */
+    height: 300px; 
+
+    /* Create the parallax scrolling effect */
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#main-header {
+    
+    padding-top: 38px;
+}
+
+.camera_thumbs {
+    
+    display: none;
+}
+
+.section-banner {
+    
+    position: relative;
+    top: -50px;
+    
+    
+    
+}
+
+.section-0 {
+    
+        top: -121px;
+  
+    background-color: #ffffff;
+}
+
+.bemvindo {
+	margin-bottom: 50px;
+}
+
+.carousel-banner .carousel-item-content {
+    
+  
+    left: 0px;
+    position: relative;
+    width: 100%;
+    top: -70px;
+    z-index: 9;
+    
+    
+}
+
+.titaux {
+    
+ 
+    font-family: 'Fjalla One', sans-serif;
+    top: -8px;
+    position: relative;
+    left: 24px;
+   
+}
+
+.titaux1 {
+    
+    color: rgb(197 6 6);
+    font-size: 20px;
+    font-family: 'Fjalla One', sans-serif;
+    
+}
+
+.carousel-titlesb {
+    border-bottom: 0px solid rgb(197 6 6);
+}
+
+.comborda {
+    border-top: 6px solid rgb(197 6 6);
+    position: relative;
+    top: -35px;
+    left: 15px;
+    width: 99%;
+    
+}
+
+.copyright-block .social-team li a {
+    background: none repeat scroll 0 0 #000;
+    border: medium none;
+    float: none;
+    height: 60px;
+    line-height: 60px;
+    width: 70px;
+}
+
+.copyright-block .social-team li a i {
+    line-height: 40px;
+}
+
+.copyright-block .social-team li span {
+    text-transform: uppercase;
+    color: #010101;
+    font-size: 12px;
+    width: 100%;
+    text-align: center;
+}
+.nav-tabstopo {
+    border-bottom: 0px solid #000;
+    float: right;
+    position: relative;
+    top: -22px;
+}
+
+
+.nav-tabsprodutos {
+    border-bottom: 0px solid #000;
+    float: right;
+    position: relative;
+    top: 22px;
+    width: 104%;
+    margin-bottom: 20px;
+}
+
+.pr-0 {
+   padding-right: 0;
+}
+
+.nav-tabsprodutos>li>a {
+    border: 1px solid transparent;
+    color: #fff;
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 14px;
+    letter-spacing: 0;
+    font-weight: normal;
+    line-height: 1.42857;
+    text-transform: uppercase;
+}
+
+.section-111 {
+	background: none repeat scroll 0 0 rgba(0, 0, 0, 0.4);
+	margin: 0;
+	overflow: hidden;
+	padding: 50px 0;
+	position: relative;
+    
+    color: #000 !important;
+    
+}
+
+.bg111 {
+	background-size: cover;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	background-position: 0 0;
+	height: 340%;
+	left: 0;
+	position: absolute;
+	top: 0;
+	width: 100%;
+	z-index: -1;
+}
+
+
+blockquote {
+    margin: 2rem 0;
+}
+
+ul li {
+    margin-bottom: .25rem;
+}
+
